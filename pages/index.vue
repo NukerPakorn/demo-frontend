@@ -1,5 +1,8 @@
 <template>
-  <Tutorial />
+  <div>
+    <AppSearch />
+    <ViewUserAgent />
+  </div>
 </template>
 
 <script>
